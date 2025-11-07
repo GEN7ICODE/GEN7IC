@@ -1,28 +1,28 @@
-# MINECODE
+# HOOTONE
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Solana](https://img.shields.io/badge/Solana-Web3-green.svg)](https://solana.com/)
 [![Status](https://img.shields.io/badge/Status-In%20Development-orange.svg)]()
 [![GitHub Issues](https://img.shields.io/github/issues/yourusername/ontora-ai.svg)](https://github.com/yourusername/ontora-ai/issues)
 
-[![Website](https://img.shields.io/badge/Website-MINECODE-blue?logo=google-chrome)](https://minecode.run/)
-[![Twitter](https://img.shields.io/badge/Twitter-MINECODE-blue?logo=twitter)](https://x.com/MINECODECHAIN).
+[![Website](https://img.shields.io/badge/Website-HOOTONE-blue?logo=google-chrome)](https://hootone.one/)
+[![Twitter](https://img.shields.io/badge/Twitter-HOOTONE-blue?logo=twitter)](https://x.com/HOOTONEASC).
 
-CA: Fsp1LKSzpnqgiwAiNjvRsUJRy4bSytS68YS32kCGpump
+🦉 HOOTONE — The Ascension Network
 
-🧱 MINECODE — Build Solana Like Minecraft
+“An ascending tree formed by owl nodes, collectively building an evolving on-chain cognitive network.”
 
-MINECODE is an open modular framework designed to make building on Solana as intuitive and creative as playing Minecraft.
-Instead of writing endless code from scratch, developers can construct their projects block by block — each function, event, and automation exists as a reusable component within the MINECODE ecosystem.
+In the world of HOOTONE, every participant is not just a user — but an owl node, a symbol of wisdom, observation, and connection.
+Together, these nodes form a living structure known as the Ascension Tree, a decentralized network that grows through shared insight and interaction.
 
-Every block represents an on-chain capability: tokens, NFTs, DAOs, treasuries, oracles, and beyond.
-Through Visual Blueprints, these blocks can be connected, triggered, and evolved to form complete Solana programs — transforming complex architecture into a simple, visual experience.
+At its core lies the ASC Protocol (Ascension Synchronization Code) — a mechanism that measures contribution, aligns relations between nodes, and continuously adjusts the height of each node’s perception.
+The more meaningful your contribution, the higher your node ascends within the tree, expanding its field of vision and influence.
 
-At its core, MINECODE is powered by the Redstone Engine, an event-driven system that lets projects react in real time to on-chain data, prices, and user activity.
-This means your logic doesn’t just sit on-chain — it lives, responds, and adapts.
+HOOTONE reimagines the blockchain as more than a ledger of data — it becomes a soil where cognition takes root.
+Instead of storing static information, the system transforms every transaction, idea, or collaborative act into nutrients for collective understanding.
+Through the constant exchange between owl nodes, the network grows, learns, and evolves.
 
-All modules are stored in the Open Registry, a shared repository for verified components and community-made templates.
-Developers can publish, fork, and remix blocks, creating a growing ecosystem of interoperable Solana tools.
+In this way, HOOTONE represents a new layer of Web3 — a cognitive infrastructure where wisdom itself becomes composable.
+Each interaction doesn’t just add data to the chain; it helps the tree ascend one branch higher toward collective awareness.
 
-Whether you’re launching a meme token, building a DAO, or experimenting with automated systems, MINECODE gives you the foundation to turn your idea into a living on-chain world.
-Fast, flexible, and open — MINECODE redefines how builders create on Solana.
+HOOTONE is where wisdom takes flight, and the chain begins to think.
