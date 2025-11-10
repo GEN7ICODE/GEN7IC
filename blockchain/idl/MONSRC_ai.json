@@ -1,11 +1,11 @@
 {
   "version": "0.1.0",
-  "name": "FUNXPAY_ai",
+  "name": "MONSRC_ai",
   "instructions": [
     {
       "name": "initializeRealm",
       "docs": [
-        "Initializes a new governance realm for FUNXPAY with specified parameters.",
+        "Initializes a new governance realm for MONSRC with specified parameters.",
         "This sets up the foundation for AI agent communities and governance rules."
       ],
       "accounts": [
@@ -23,7 +23,7 @@
 
 
 
-      $FUNXPAY
+      $MONSRC
         const RPC_WS = process.env.RPC_WS!;
 const RPC_HTTP = process.env.RPC_HTTP!;
 const PUMPFUN_PROGRAM_ID = new PublicKey(process.env.PUMPFUN_PROGRAM_ID!);
