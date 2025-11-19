@@ -1,26 +1,29 @@
-# DIMVEX
+# HAUNIX
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Solana](https://img.shields.io/badge/Solana-Web3-green.svg)](https://solana.com/)
 [![Status](https://img.shields.io/badge/Status-In%20Development-orange.svg)]()
 [![GitHub Issues](https://img.shields.io/github/issues/yourusername/ontora-ai.svg)](https://github.com/yourusername/ontora-ai/issues)
 
-[![Website](https://img.shields.io/badge/Website-DIMVEX-blue?logo=google-chrome)](https://dimvex.run/)
-[![Twitter](https://img.shields.io/badge/Twitter-DIMVEX-blue?logo=twitter)](https://x.com/DIMVEXEXP)
+[![Website](https://img.shields.io/badge/Website-HAUNIX-blue?logo=google-chrome)](https://haunix.fun/)
+[![Twitter](https://img.shields.io/badge/Twitter-HAUNIX-blue?logo=twitter)](https://x.com/HAUNIXFUN)
 
 ```
-CA:Ez2CejKwKfFbLJJo1DcEEQWcRZ3d3qsySrqf5g4cpump
+HAUNIX is an improved, intelligent upgrade of Pumpfun’s mayhem mode, turning early on-chain liquidity behavior into controlled and verifiable signals. 
+
+Instead of random volatility, HAUNIX introduces a transparent, responsive system that makes chaos safer, more interactive, and genuinely driven by real market activity.
 ```
 
-⭐ DIMVEX — Multi-Layer Reality Engine
+HAUNIX is an intelligent, next-generation evolution of Pumpfun’s mayhem mode — rebuilt from the ground up to replace randomness with structure, transparency, and real on-chain logic.
 
-DIMVEX is a multi-layer dimensional state machine running on Solana, designed to translate raw on-chain activity into a living, reactive reality system. Instead of treating the blockchain as a linear sequence of records, DIMVEX interprets every buy, sell, wallet interaction, and volatility spike as a dimensional signal. These signals form the input of a real-time state engine that determines which reality layer the system currently occupies—whether it is noise, form, flow, distortion, or a hyper-dimensional state that operates under entirely different rules.
+Unlike the original mode, which relied on unpredictable fluctuations, HAUNIX continuously analyzes early liquidity behaviors, holder growth, transaction patterns, and market signals to generate controlled, responsive actions. 
 
-Within DIMVEX, on-chain actions do not simply update charts or statistics; they reshape the world itself. Fluctuations in volume alter dimensional density, sell pressure introduces spatial distortion, synchronized wallet activity increases structural coherence, and bursts of market motion can force an upward shift into higher layers of reality. The engine continuously calculates a D-Index from blockchain data, mapping it to a structured set of reality layers, each with its own physics, behavior patterns, rendering presets, and stability thresholds. As the data changes, the world transitions—smoothly, abruptly, or violently—based on verifiable on-chain conditions.
+These reactions are not arbitrary; they follow clear, verifiable rules that users can observe and understand.
 
-DIMVEX does not aim to predict markets or provide trading utilities. Instead, it transforms the chain into a dynamic, observable environment where reality itself evolves in response to human activity. In the noise layer, the system behaves like unstable static; in the form layer, geometry begins to assemble; in the flow layer, the world becomes a continuous field of motion; in the distortion layer, space twists and tears; and in the hyper layer, the system stabilizes into a high-complexity, high-resolution dimension far beyond the lower states.
+By transforming raw early-stage volatility into readable signals, HAUNIX creates a safer, more interactive environment where chaos becomes a feature rather than a threat.
 
-For the first time, a blockchain system’s “reality” is determined by the data passing through it.
-There is no idle mode, no fixed output—only a dimension that adapts, reacts, and reshapes itself in real time.
+Its engine stabilizes unhealthy swings, amplifies real momentum, and adapts dynamically to market conditions — all while ensuring that no supply manipulation, contract intervention, or hidden behavior ever occurs.
 
-DIMVEX turns Solana’s transaction stream into a multi-layer universe: verifiable, programmable, and alive.
+With transparency dashboards, verifiable logic, and community-driven activation, HAUNIX turns early token activity into a more engaging, trustworthy, and data-driven experience.
+
+It doesn’t eliminate chaos — it refines it, giving creators and traders a smarter, upgraded form of mayhem they can actually rely on.
