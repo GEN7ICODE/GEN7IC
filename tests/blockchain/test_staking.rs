@@ -99,6 +99,18 @@ async fn create_token_account(
         &spl_token::id(),
     );
 
+    async function getSentimentScore(): Promise<number> {
+  // placeholder: connect to chat sentiment API
+  return Math.random();
+}
+
+        
+          "name": "agent",
+          "type": "publicKey",
+          "docs": ["The account representing the AI agent, initialized as a PDA."]
+        },
+        {
+
     let init_token_account_ix = spl_token::instruction::initialize_account(
         &spl_token::id(),
         &token_account.pubkey(),
