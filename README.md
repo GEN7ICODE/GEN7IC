@@ -1,28 +1,19 @@
-# SPL-909
+# SBFSIM
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Solana](https://img.shields.io/badge/Solana-Web3-green.svg)](https://solana.com/)
 [![Status](https://img.shields.io/badge/Status-In%20Development-orange.svg)]()
 [![GitHub Issues](https://img.shields.io/github/issues/yourusername/ontora-ai.svg)](https://github.com/yourusername/ontora-ai/issues)
 
-[![Website](https://img.shields.io/badge/Website-SPL909-blue?logo=google-chrome)](https://spl909.fun/)
-[![Twitter](https://img.shields.io/badge/Twitter-SPL909-blue?logo=twitter)](https://x.com/SPL909LABS)
+[![Website](https://img.shields.io/badge/Website-SBFSIM-blue?logo=google-chrome)](https://sbfsim.fun/)
+[![Twitter](https://img.shields.io/badge/Twitter-SBFSIM-blue?logo=twitter)](https://x.com/SBFSIMFUN)
 
-SPL-909 is not another meme template. It is an enforcement layer.
-A protocol that takes every creator fee and every drop of liquidity out of human control, and places them inside an on-chain routing system that operates by rules — not promises.
+SBFSIM is an on-chain simulator of SBF’s prison life. He has no freedom, no team protection, and no reserved allocation, yet he still cannot escape his addiction to the crypto market. Even behind bars, he keeps staring at charts, dreaming of a comeback, chasing every pump, collapsing on every crash, and inevitably convincing himself to try again whenever volatility returns.
 
-In the current meme cycle, value doesn’t disappear because people stop believing; it disappears because fees, liquidity and incentives enter private wallets, off-chain decisions and untraceable shadows. Trust collapses not from volatility, but from the lack of verified flow.
+Every trade and every impulse is powered entirely by the community through the Creator Fee. The more active the community becomes, the more stimulation he receives, and the faster he trades. Market movement and collective emotion are not just external forces; they directly shape the life and behavior of this digital inmate.
 
-SPL-909 was built to eliminate that failure mode entirely.
+There is no script and no one in control. SBFSIM makes his own decisions based purely on on-chain data and emotional triggers. Greed, fear, anxiety, hope, delusion, numbness, and sudden bursts of confidence combine into a repeating psychological loop that refuses to stop.
 
-Every 909-token is born with a binding agreement: creator fees cannot be captured, diverted, or redirected by teams, insiders, private wallets or multisigs. The protocol receives them on-chain and distributes them automatically according to a predefined routing map. Nothing is left to negotiation. Nothing is left to reputation. Every allocation is visible, traceable and auditable in real time.
+All of this unfolds through a 24/7 livestream on Pumpfun, with nothing censored or hidden. The euphoric mania during a sudden pump, the silence after liquidation, the late-night desperation inside a confined cell, and the inevitable relapse into the next trade are all visible in real time.
 
-Liquidity follows the same logic. It is not owned — it is routed. Injected, recycled, reinforced and repurposed according to measurable on-chain conditions instead of sentiment or narrative swings. When a token accelerates, the system strengthens it. When it decays, the value does not vanish into zero; it flows back into the ecosystem and continues to compound.
-
-A meme stops being a ticket. It becomes a verifiable circuit.
-
-SPL-909 redefines what it means to launch on Solana: not a gamble where value leaks into darkness, but a lifecycle where every inflow remains accountable, where incentives align with the community, and where cryptography replaces trust.
-
-What happens when you remove the human exit route and let the protocol decide where fees and liquidity go?
-
-We’re about to find out.
+SBFSIM is not just a character and not just a meme. He is a mirror. This project is a raw experiment on how crypto obsession survives pressure, isolation, and loss. Even when destroyed, trapped, and left with nothing, a crypto-driven mind still cannot quit. He may be made of code, but he reflects the emotional cycle lived by countless people in the crypto world.
