@@ -3,7 +3,7 @@ const { createRealm, createProposal, vote, executeProposal } = require('@solana/
 const { jest } = require('@jest/globals');
 
 // Mock Solana connection to avoid real network calls
-jest.mock('@solana/web3.js', () => {
+jest.mock('@solana/web3.js', () => { 
   const mockConnection = {
     getBalance: jest.fn().mockResolvedValue(1000000000), // 1 SOL in lamports
     getRecentBlockhash: jest.fn().mockResolvedValue({ blockhash: 'mockBlockhash', feeCalculator: { lamportsPerSignature: 5000 } }),
